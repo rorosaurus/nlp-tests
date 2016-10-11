@@ -8,6 +8,9 @@ A sort-of Turing Test for virtual assistants who utilize Natural Language Proces
 * "Remind me I have a meeting tonight."
   * Most assistants will create a reminder that says "I have a meeting tonight" instead of "You have a meeting tonight."
 
+## Special case handling / exceptions
+* "Hey Siri, schedule a meeting every Tuesday and Thursday with Sara at 2pm, except skip every other Thursday, starting next week."
+
 ## Contextual information surfacing
 * "Hey Siri, remind me tomorrow to call and place that dinner reservation."
   * Assistant should know what dinner you mean based on conversations/events and pre-populate the phone number, etc.
@@ -18,3 +21,4 @@ A sort-of Turing Test for virtual assistants who utilize Natural Language Proces
 * "OK Google, navigate to the address of the last event I attended that was hosted by Alex."
 * "Remind me next time I'm near the mall to pick up xyz."
 * "Can you message everyone and tell them I'm running late?"
+* "Cortana, message everyone in the concert group chat and remind them to pick up their tickets."
