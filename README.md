@@ -1,5 +1,7 @@
 # Natural Language Processing Tests
-A sort-of Turing Test for virtual assistants who utilize Natural Language Processing
+### A sort-of Turing Test for virtual assistants who utilize Natural Language Processing.
+
+Here are some phrases I think most virtual assistants will fail to handle correctly, most of which are fairly common and not unreasonable to dictate to a human assistant.
 
 ## Handling imperfect phrases/phrasing
 * "OK Google, remind me at like 3pm tomorrow to call Dad."
