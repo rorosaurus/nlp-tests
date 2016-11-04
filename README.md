@@ -9,6 +9,7 @@ Here are some phrases I think most virtual assistants will fail to handle correc
   * This is particularly interesting in the scenario when the reminder is requested after midnight.
 * "Remind me I have a meeting tonight."
   * Most assistants will create a reminder that says "I have a meeting tonight" instead of "You have a meeting tonight."
+* "Remind me later today to call Andrew."
 
 ## Special case handling / exceptions
 * "Hey Siri, schedule a meeting every Tuesday and Thursday with Sara at 2pm, except skip every other Thursday, starting next week."
